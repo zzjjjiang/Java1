@@ -17,9 +17,9 @@ target/**
 # IntelliJ project files
 # **/*.iml
 # *.iml
-.idea/misc.xml
-.idea/**
-.idea
+#.idea/misc.xml
+#.idea/**
+#.idea
 out
 gen
 
