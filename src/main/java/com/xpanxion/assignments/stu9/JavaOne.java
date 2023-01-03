@@ -6,7 +6,7 @@ public class JavaOne {
     // Constructors
     //
 
-    JavaOne() {}
+    public JavaOne() {}
 
     //
     // Public methods
