@@ -1,15 +1,7 @@
-# Java Assignments
-This repository is used for the following courses:
-- [Java I](java-I-assignments.md)
-- [Java II](java-II-assignments.md)
-- [Java III](java-III-assignments.md)
+# Java I Assignments
+Assignment repo for Java I.
 
-# Links
-[Tutorials Point](https://www.tutorialspoint.com/java/index.htm)
-
-[Java 17](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
-
-[Baeldung](https://www.baeldung.com/)
-
-[Java Dev Central](https://javadevcentral.com/)
-
+# Getting Started
+- Clone this repo into a local directory on your computer
+- Open IntelliJ
+- Open the `pom.xml` file in IntelliJ

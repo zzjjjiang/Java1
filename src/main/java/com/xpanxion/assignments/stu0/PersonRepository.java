@@ -1,8 +1,7 @@
-package com.xpanxion.assignments.shared;
-
-import com.xpanxion.assignments.stu0.Person;
+package com.xpanxion.assignments.stu0;
 
 import java.util.HashMap;
+import java.util.Optional;
 
 public class PersonRepository {
 
@@ -27,7 +26,7 @@ public class PersonRepository {
     // Methods
     //
 
-    public Person getPerson(Integer personId) {
-        return personHashMap.get(personId);
+    public Optional<Person> getPerson(Integer personId) {
+        return Optional.ofNullable(personHashMap.get(personId)); // Note: we could use getOrDefault() here.
     }
 }

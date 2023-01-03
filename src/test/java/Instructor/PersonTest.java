@@ -2,7 +2,7 @@ package Instructor;
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
-import com.xpanxion.assignments.instructor.Person;
+import com.xpanxion.assignments.stu0.Person;
 
 public class PersonTest {
 
