@@ -15,11 +15,11 @@ target/**
 *.ear
 
 # IntelliJ project files
+# **/*.iml
+# *.iml
 .idea/misc.xml
-**/*.iml
 .idea/**
 .idea
-# *.iml
 out
 gen
 
