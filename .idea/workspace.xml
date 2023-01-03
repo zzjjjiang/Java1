@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66d04a01-4d96-45c1-bb75-de23126a181f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/CalculatorException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/CalculatorException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/DataAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/DataAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/JavaThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/JavaThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/JavaTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/JavaTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/PersonRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/instructor/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu0/Repository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/shared/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/shared/PersonRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student1/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu1/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student10/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu10/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu10/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student2/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu2/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student3/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu3/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student4/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu4/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student5/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu5/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student6/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu6/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student7/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu7/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student8/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu8/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student9/JavaOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu9/JavaOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/student9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xpanxion/assignments/stu9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Instructor/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Instructor/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Instructor/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Instructor/PersonTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="66d04a01-4d96-45c1-bb75-de23126a181f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +29,13 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Develop" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.xpanxion.assignments.stu0.Main" />
+      <module name="java-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
