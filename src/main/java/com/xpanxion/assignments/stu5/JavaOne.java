@@ -1,4 +1,4 @@
-package com.xpanxion.assignments.stu10.stu5;
+package com.xpanxion.assignments.stu5;
 
 public class JavaOne {
 

@@ -15,8 +15,8 @@ target/**
 *.ear
 
 # IntelliJ project files
-# **/*.iml
-# *.iml
+ **/*.iml
+ *.iml
 .idea/misc.xml
 .idea/**
 .idea

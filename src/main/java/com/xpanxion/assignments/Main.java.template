@@ -1,6 +1,6 @@
 package com.xpanxion.assignments;
 
-import com.xpanxion.assignments.stu0.JavaOne; // <== Change this to your student ID.
+import com.xpanxion.assignments.stu0.JavaOne; // <== Change stu0 with your student ID.
 
 public class Main {
     public static void main(String[] args) throws Exception {
