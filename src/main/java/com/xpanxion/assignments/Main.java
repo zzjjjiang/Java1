@@ -1,6 +1,6 @@
 package com.xpanxion.assignments;
 
-import com.xpanxion.assignments.stu1.JavaOne;
+import com.xpanxion.assignments.stu0.JavaOne;
 
 public class Main {
     public static void main(String[] args) throws Exception {
