@@ -9,7 +9,7 @@ public class JavaOne {
     // Constructor
     //
 
-    JavaOne() {}
+    public JavaOne() {}
 
     //
     // Public Methods
@@ -26,6 +26,7 @@ public class JavaOne {
 
         String outString = String.format("Your name in upper case is: %s.", name.toUpperCase());
         System.out.println(outString);
+        scanner.close();
     }
 
     /**
