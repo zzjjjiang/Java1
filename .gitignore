@@ -2,6 +2,9 @@
 /shelf/
 /workspace.xml
 
+src\main\java\com\xpanxion\assignments\stu0
+src\test\java\Instructor
+
 # Compiled
 *.class
 target/**

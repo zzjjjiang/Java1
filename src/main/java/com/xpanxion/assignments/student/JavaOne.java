@@ -1,4 +1,4 @@
-package com.xpanxion.assignments.stu1;
+package com.xpanxion.assignments.student;
 
 public class JavaOne {
 
